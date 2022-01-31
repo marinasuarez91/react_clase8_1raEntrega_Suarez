@@ -1,0 +1,63 @@
+{
+    "productos": [
+    {
+        "id": 0,
+        "name": "Jacaranda",
+        "tipo": "bolso",
+        "color": "negro",
+        "price": "$8200",
+        "description": "-Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle -Costuras y remaches de seguridad. Cierres metálicos YKK y tiracierres de cuero. Bolsillo interno simple y externo con cierre. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro",
+        "medidas": "-Alto: 40, -Ancho superior: 40 cm, -Ancho de la base: 32 cm, -Profundidad: 13 cm, -Largo de manijas: 58 cm",
+        "img": "https://picsum.photos/200"
+    },
+    {
+        "id": 1,
+        "name": "Jacaranda",
+        "tipo": "bolso",
+        "color": "suela",
+        "price": "$8200",
+        "description": "-Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle -Costuras y remaches de seguridad. Cierres metálicos YKK y tiracierres de cuero. Bolsillo interno simple y externo con cierre. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro",
+        "medidas": "-Alto: 40, -Ancho superior: 40 cm, -Ancho de la base: 32 cm, -Profundidad: 13 cm, -Largo de manijas: 58 cm",
+        "img": "https://picsum.photos/201"
+    },
+    {
+        "id": 2,
+        "name": "Andes",
+        "tipo": "bolso",
+        "color": "negro y suela",
+        "price": "$7500",
+        "description": "-Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle -Costuras y remaches de seguridad. Cierres metálicos YKK y tiracierres de cuero. Bolsillo interno simple y externo con cierre. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro",
+        "medidas": "-Alto: 35 cm, -Ancho: 37 cm, -Profundidad: 14 cm, -Largo de manijas: 48 cm (se hacen cortas como maletín a pedido)",
+        "img": "https://picsum.photos/202"
+    },
+    {
+        "id": 3,
+        "name": "Selva",
+        "tipo": "mochila",
+        "color": "negro",
+        "price": "$8350",
+        "description": "-Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle - Esta mochila se puede usar como bolso también, enganchando las correas en las arandelas superiores. Costuras y remaches de seguridad. Cierres metálicos ykk y tiracierres de cuero. Bolsillo interno y externo simple y en la espalda con cierre. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro.",
+        "medidas": "-Alto: 40 cm, Apertura de cierre superior: 28 cm, Ancho de la base: 28 cm, Profundidad: 12 cm, Largo de correas: 80 cm",
+        "img": "https://picsum.photos/203"
+    },
+    {
+        "id": 4,
+        "name": "Selva",
+        "tipo": "mochila",
+        "color": "suela",
+        "price": "$8350",
+        "description": "-Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle - Esta mochila se puede usar como bolso también, enganchando las correas en las arandelas superiores. Costuras y remaches de seguridad. Cierres metálicos ykk y tiracierres de cuero. Bolsillo interno y externo simple y en la espalda con cierre. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro.",
+        "medidas": "-Alto: 40 cm, Apertura de cierre superior: 28 cm, Ancho de la base: 28 cm, Profundidad: 12 cm, Largo de correas: 80 cm",
+        "img": "https://picsum.photos/204"
+    },
+    {
+        "id": 5,
+        "name": "Selva",
+        "tipo": "mochila",
+        "color": "mostaza",
+        "price": "$8350",
+        "description": "-Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle - Esta mochila se puede usar como bolso también, enganchando las correas en las arandelas superiores. Costuras y remaches de seguridad. Cierres metálicos ykk y tiracierres de cuero. Bolsillo interno y externo simple y en la espalda con cierre. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro.",
+        "medidas": "-Alto: 40 cm, Apertura de cierre superior: 28 cm, Ancho de la base: 28 cm, Profundidad: 12 cm, Largo de correas: 80 cm",
+        "img": "https://picsum.photos/205"
+    }
+]}
